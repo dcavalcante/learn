@@ -1,4 +1,5 @@
 {
+  "license": "MIT",
   "scripts": {
     "build": "doc-kit generate --config-file doc-kit.config.mjs",
     "lint": "eslint .",
